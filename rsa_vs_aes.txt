@@ -1,0 +1,15 @@
+RSA vs AES Comparison
+---------------------------------------
+RSA:
+- Type: Asymmetric (uses Public & Private keys)
+- Speed: Slower, computationally heavy
+- Use-case: Secure key exchange, digital signatures, small data encryption
+- Key size: Typically 2048 or 4096 bits
+- Performance: Not suitable for large files
+
+AES:
+- Type: Symmetric (uses one shared key)
+- Speed: Very fast and efficient for large data
+- Use-case: File encryption, disk encryption, VPNs, etc.
+- Key size: 128, 192, 256 bits
+- Performance: Ideal for bulk encryption
